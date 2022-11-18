@@ -1,4 +1,3 @@
-![MasterHead](https://singhaniaitsolutions.com/assets/user/images/service/web.gif)
 <h1 align="center">Hi 👋, I'm K Krishna Murthy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
