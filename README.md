@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E health-care system**
+- 🔭 I’m currently working as a frontend developer at promptora.ai  **
 
-- 🌱 I’m currently learning **Front-End Web UI Frameworks and tools**
+- 🌱 I’m currently learning **React Js , Node js**
 
 - 💬 Ask me about **Front-End**
 
