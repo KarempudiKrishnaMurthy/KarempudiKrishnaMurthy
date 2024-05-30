@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front-End**
 
-- 📫 How to reach me **km7829@srmist.edu.in**
+- 📫 How to reach me **chunnu1507@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
