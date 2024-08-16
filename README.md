@@ -3,20 +3,13 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karempudikrishnamurthy&label=Profile%20views&color=0e75b6&style=flat" alt="karempudikrishnamurthy" /> </p>
-
-<p align="left"> 
-  <a href="https://github.com/karempudikrishnamurthy?tab=followers" target="blank"><img src="https://img.shields.io/github/followers/karempudikrishnamurthy?label=Followers&style=social" alt="karempudikrishnamurthy" /></a>
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
-</p>
-
 - 🔭 I’m currently working as a frontend developer at [Promptora.ai](https://www.promptora.ai)
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
 - 💬 Ask me about **Front-End Development**
 
-- 📫 How to reach me **chunnu1507@gmail.com**
+- 📫 How to reach me **[chunnu1507@gmail.com](mailto:chunnu1507@gmail.com)**
 
 - ⚡ Fun fact **I love coding and coffee!**
 
@@ -29,9 +22,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
 ### 📊 GitHub Stats
@@ -45,10 +38,6 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/karempudi-krishna-murthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karempudi krishna murthy" height="30" width="40" /></a>
-  <a href="https://instagram.com/krishna_murthy_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna_murthy_15" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karempudi-krishna-murthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:chunnu1507@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
-
-### 🏆 GitHub Trophies
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=karempudikrishnamurthy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="karempudikrishnamurthy" /></p>
