@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm K Krishna Murthy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
 - 🔭 I’m currently working as a frontend developer at [Promptora.ai](https://www.promptora.ai)
   
 - 🌱 I’m currently learning **React.js, Node.js**
@@ -72,5 +68,4 @@
   </a>
   <a href="mailto:chunnu1507@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+  </a
