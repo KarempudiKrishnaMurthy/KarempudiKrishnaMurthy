@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm K Krishna Murthy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<p align="center">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 - 🔭 I’m currently working as a frontend developer at [Promptora.ai](https://www.promptora.ai)
   
-- 🌱 I’m currently learning **React.js, Node.js, SharePoint, SPFx**
+- 🌱 I’m currently learning **React.js, Node.js**
   
-- 💬 Ask me about **Front-End Development, SharePoint, SPFx**
+- 💬 Ask me about **Front-End Development**
 
-- 📫 How to reach me **[chunnu1507@gmail.com](mailto:chunnu1507@gmail.com)**
+- 📫 How to reach me: **[chunnu1507@gmail.com](mailto:chunnu1507@gmail.com)**
 
-- ⚡ Fun fact **I love coding and coffee!**
+- ⚡ Fun fact: **I love coding and coffee!**
 
 ### 🧰 Languages and Tools
 
@@ -28,9 +30,6 @@
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_sharepoint_%282019%29.svg/1200px-Microsoft_sharepoint_%282019%29.svg.png" alt="SharePoint" width="40" height="40"/> 
   </a>
 </p>
 
