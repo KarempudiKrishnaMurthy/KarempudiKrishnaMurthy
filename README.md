@@ -1,76 +1,166 @@
-<h1 align="center">Hello! I'm K Krishna Murthy 👋</h1>
+# 👋 Hello, I'm K. Krishna Murthy
+
+<h3 align="center">
+  Software Engineer | Full Stack Developer | Java Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karempudikrishnamurthy&label=Profile%20views&color=0ca4a5&style=flat-square" alt="Profile Views" />
+  Passionate about building modern web applications, developing scalable backend systems, and solving real-world problems through code.
 </p>
 
 <p align="center">
-  Worked on various projects, now actively contributing to COSLMS application while working with PHP, phpMyAdmin, and Mustache.  
-  Currently deepening my expertise by studying the MERN stack during non-office hours.
+  🌐 <strong>Portfolio Coming Soon!</strong>
 </p>
 
-<p align="center">
-  <a href="#"><strong>🌐 Portfolio coming soon!</strong></a>
-</p>
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer with experience in developing and maintaining web applications.
+- 🌐 Experienced in frontend development using React, JavaScript, TypeScript, and modern UI frameworks.
+- ☕ Exploring Java backend development with Spring Boot.
+- ⚙️ Experienced with PHP, Node.js, Express, and REST API development.
+- 🗄️ Familiar with relational and NoSQL databases.
+- 🧠 Practicing Data Structures and Algorithms using Java.
+- 🎯 Interested in scalable applications, backend engineering, and clean software architecture.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
+
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++"/>
 </p>
 
-### Frameworks and Libraries
+### 🎨 Frontend Development
+
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="Moodle" src="https://img.shields.io/badge/Moodle-FF9800?style=for-the-badge&logo=moodle&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" height="48" alt="Material UI"/>
 </p>
 
-### Databases
+### ⚙️ Backend Development
+
 <p align="center">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="48" alt="Flask"/>
 </p>
 
-### API and Testing
 <p align="center">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <sub>Spring Boot • Node.js • Express.js • PHP • FastAPI • Flask</sub>
 </p>
 
-### Other Tools
+### 🗄️ Databases & Data Management
+
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mariadb/003545" height="48" alt="MariaDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="48" alt="phpMyAdmin"/>
+</p>
+
+<p align="center">
+  <sub>PostgreSQL • MySQL • MongoDB • Redis • MariaDB • phpMyAdmin</sub>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karempudikrishnamurthy&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=karempudikrishnamurthy&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karempudikrishnamurthy&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
+## 📊 GitHub Statistics
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=karempudikrishnamurthy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="100%" alt="GitHub Statistics"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=karempudikrishnamurthy&hide_border=true&theme=transparent" width="100%" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karempudikrishnamurthy&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="55%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ✉️ Let's Connect
+## 🎯 Currently Exploring
+
+- Java and Spring Boot application development.
+- Building RESTful APIs and backend services.
+- Full Stack Development with React and Node.js.
+- Data Structures and Algorithms using Java.
+- Database management and optimization.
+- System Design and scalable application architecture.
+- Writing clean, reusable, and maintainable code.
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/karempudi-krishna-murthy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
-  <a href="mailto:chunnu1507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chunnu1507@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always Learning. Always Building. Always Growing. 🚀</i>
 </p>
